@@ -27,3 +27,7 @@ Claude at this repo and tell it to read `DESIGN.md` + `tokens.json`.
 ## Icons
 
 UI icons use [Lucide](https://lucide.dev) via CDN. The squid logo is the only custom icon.
+
+## Agent workflow
+
+After cloning or pulling, start with [AGENTS.md](AGENTS.md) (or [CLAUDE.md](CLAUDE.md)), then [WORKFLOW.md](WORKFLOW.md) and the [memory bank](memory-bank/toc.md). Every change must include an active-context update and a dated final task document; the GitHub check verifies this on pull requests and main pushes. New files must be justified and listed in that document.
