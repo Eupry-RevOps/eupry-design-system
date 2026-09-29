@@ -1,3 +1,5 @@
+> **Project workflow:** Before changing this repository or after pulling changes, read [WORKFLOW.md](WORKFLOW.md) and the latest memory-bank context. Add a final task document and update active context with every change. Preserve the design guidance below.
+
 # Eupry Design System - Agent Reference
 
 Quick reference for AI agents. For full details, see `DESIGN.md`. For structured data, see `tokens.json`.
